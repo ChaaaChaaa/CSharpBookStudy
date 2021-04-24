@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharpBookStudy.ch7.Ingeritance
+namespace CSharpBookStudy.ch7.Inheritance
 {
     class Mammal
     {
