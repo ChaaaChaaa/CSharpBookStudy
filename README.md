@@ -4,7 +4,7 @@
 #### "이것이 C#이다" 책의 코드를 따라친 내용입니다.
 
 
-#### 클래스 [link]
+### [클래스] [link]
 [link]: https://github.com/PeonyF/CSharpBookStudy/tree/master/CSharpBookStudy/ch7
 
 ### [인터페이스와 추상클래스] [link]
