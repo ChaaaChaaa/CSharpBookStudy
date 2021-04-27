@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharpBookStudy.Ch9.AutoImplementedProperty
 {
-    class Main
+    class MainApp
     {
         static void Main(string[] args)
         {
